@@ -4,8 +4,7 @@
   "source": "index.html",
   "scripts": {
     "start": "parcel index.html",
-     "dev": "parcel index.html",
-    "build": "parcel build index.html  --dist-dir ./dist --no-optimize "
+    "build": "parcel build index.html --dist-dir ./dist --no-optimize"
   },
   "keywords": [
     "javascript",
@@ -20,7 +19,15 @@
     "fractional": "^1.0.0",
     "fracty": "^1.0.12"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Laura Mtz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauraMtz777/Modulo3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LauraMtz777/Modulo3/issues"
+  },
+  "homepage": "https://github.com/LauraMtz777/Modulo3#readme",
   "description": ""
 }
