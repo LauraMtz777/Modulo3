@@ -1,0 +1,10 @@
+Opción 2: Netlify
+Crea una cuenta en Netlify.
+
+Conecta tu repositorio de GitHub.
+
+En la configuración de build:
+
+Build Command: npm run build
+
+Publish directory: dist
